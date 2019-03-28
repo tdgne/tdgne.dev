@@ -1,0 +1,10 @@
+baseURL = "https://tdgne.dev/"
+title = "tdgneのサイト"
+theme = "hugo-theme-cleanwhite"
+languageCode = "ja-jp"
+
+[outputs]
+home = ["HTML", "RSS"]
+
+[params]
+  header_image = "images/header.jpg"

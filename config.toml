@@ -3,6 +3,7 @@ title = "tdgneのサイト"
 theme = "hugo-theme-cleanwhite"
 languageCode = "ja-jp"
 hasCJKLanguage = true
+googleAnalytics = "UA-54765878-8"
 
 [outputs]
 home = ["HTML", "RSS"]

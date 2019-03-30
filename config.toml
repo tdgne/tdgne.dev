@@ -9,6 +9,12 @@ home = ["HTML", "RSS"]
 
 [params]
 header_image = "images/header.jpg"
+about_me = true
+sidebar_about_description = "進化生態学とRustが好きな修士（理学）。2019年春からソフトウェアエンジニアになります。"
+
+[params.social]
+twitter = "https://twitter.com/feliscatusfelis"
+github = "https://github.com/tdgne"
 
 [blackfriday]
 hrefTargetBlank = true
